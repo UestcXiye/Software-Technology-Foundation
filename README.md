@@ -1,2 +1,2 @@
-# Software Technology Foundation Project Report
- 电子科技大学《软件技术基础》课程的项目报告
+# Software Technology Foundation
+ 电子科技大学2018级本科生课程《软件技术基础》，包含项目报告。
